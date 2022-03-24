@@ -1,0 +1,63 @@
+.product-detail--card {
+  width: 90%;
+  min-width: 288px;
+  max-width: 400px;
+  height: 230px;
+  margin: 15px auto;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: var(--warm-black);
+}
+
+.product-detail--card .product--icon-verefy {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain, cover;
+  background-position: center;
+}
+
+.product-detail--card .product--card-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  line-height: 1.8rem;
+  font-family: "DM Sans", sans-serif;
+  color: var(--just-white);
+  margin: 10px 0;
+}
+
+.product-detail--card .porduct--card-body {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8rem;
+  font-family: "DM Sans", sans-serif;
+  color: #808080;
+}
+
+.product--title-intro {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.8rem;
+  color: var(--just-white);
+}
+
+.Agregar {
+  display: flex;
+  margin: 5px auto;
+  padding: 5px;
+  background-color: var(--bitcoin-orange);
+  border: none;
+  border-radius: 5px;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.4rem;
+  color: var(--just-white);
+  cursor: pointer;
+}
+
+@media (min-width: 930px) {
+  .product-detail--card {
+   margin: 10px 40px; 
+  }
+}

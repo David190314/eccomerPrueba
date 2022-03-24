@@ -1,0 +1,26 @@
+.footer--compras {
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-color: var(--bitcoin-orange);
+}
+
+.footer--compras h2 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8rem;
+
+  color: var(--just-white);
+  margin-bottom: 10px;
+}
+
+.footer--compras p {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8rem;
+}

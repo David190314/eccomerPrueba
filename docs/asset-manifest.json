@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8afdcd7.css",
+    "main.js": "/static/js/main.5533201e.js",
+    "static/media/Bitcoin.svg": "/static/media/Bitcoin.a3145a04169dad741e4eb32e0744aaf7.svg",
+    "index.html": "/index.html",
+    "static/media/checkCircle.svg": "/static/media/checkCircle.59db69002511c50f33aea7e78b026e6d.svg",
+    "main.e8afdcd7.css.map": "/static/css/main.e8afdcd7.css.map",
+    "main.5533201e.js.map": "/static/js/main.5533201e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8afdcd7.css",
+    "static/js/main.5533201e.js"
+  ]
+}

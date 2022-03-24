@@ -1,0 +1,1 @@
+export const httpRquest = 'https://backendeccomernode.herokuapp.com'
