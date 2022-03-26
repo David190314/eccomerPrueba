@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eccomerPrueba/static/css/main.e8afdcd7.css",
+    "main.js": "/eccomerPrueba/static/js/main.02a8b642.js",
+    "static/media/Bitcoin.svg": "/eccomerPrueba/static/media/Bitcoin.a3145a04169dad741e4eb32e0744aaf7.svg",
+    "index.html": "/eccomerPrueba/index.html",
+    "static/media/checkCircle.svg": "/eccomerPrueba/static/media/checkCircle.59db69002511c50f33aea7e78b026e6d.svg",
+    "main.e8afdcd7.css.map": "/eccomerPrueba/static/css/main.e8afdcd7.css.map",
+    "main.02a8b642.js.map": "/eccomerPrueba/static/js/main.02a8b642.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8afdcd7.css",
+    "static/js/main.02a8b642.js"
+  ]
+}
